@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?hl=en&user=SqXJWccAAAAJ
 
   # - title: "Talks"
   # url: /talks/    
@@ -16,7 +16,7 @@ main:
  #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /Curriculum Vitae Resume (Ali Nazari).pdf/
     
  # - title: "Guide"
  #   url: /markdown/
