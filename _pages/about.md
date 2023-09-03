@@ -10,8 +10,8 @@ redirect_from:
 
 
 
--I'm currently a Ms.c student at Khaje Nasir University and expecting to be graduated in September 2023
--My research interests are rooted in these issues: 1- Sustainable Developement 2- Circular Economy 3- Renewable Energy and 4- Waste Management
+- I'm currently a Ms.c student at Khaje Nasir University and expecting to be graduated in September 2023
+- My research interests are rooted in these issues: 1- Sustainable Developement 2- Circular Economy 3- Renewable Energy and 4- Waste Management
 - I'm currently seeking to study in the field of e-fuel production
 
 # Highlighted Experiences 
