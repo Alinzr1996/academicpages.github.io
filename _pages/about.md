@@ -16,6 +16,6 @@ redirect_from:
 
 # Highlighted Experiences
 - Working at Niroo Research Institue from 2021 to 2023:
- In this project, me, and my supervisor Dr. Hoseinpour collaborated to revise the policies in regard of biomass energy in Iran. We considered the issue of sustainable developement, and the importance of using biomass energy in the sections which electrification is difficult. This project, moreover, provided suggestions in regard of choosing the proper technology for each type of biomass feedstock which in the most cases was anaerobic digestion.
-- Master degree thesis: Waste management system reform combined with optimization of energy, and water consumption systems:
- In this project, I studied the waste composition of the city of Qom as the case of study and I proposed a system in which different technologies are used for waste treatment in a complex. Only technologies that are competent with the concpets of sustanability, and circular economy were chosen. A energy providing system consuming biogas produced by the complex, and a wastewater treatment unit is considered as well. In this thesis, a great level of reduction in water resources consumption and greenhouse gas emissions was achieved and the technologies were proven to be economically capable. In the end, some recommondations were presented for economic ease for the private sector.
+ In this project, i was involved in revising the biomass energy policies in Iran.
+- Master degree thesis: 
+In my Thesis, I designed a waste management system for the city of Qom on the basis of sustainability
